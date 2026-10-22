@@ -14,6 +14,7 @@ export function cargarEnv(ruta = '.env') {
     const m = linea.match(/^\s*([A-Z0-9_]+)\s*=\s*(.*?)\s*$/);
     if (m) env[m[1]] = m[2].replace(/^["']|["']$/g, '');
   }
+  
   return env;
 }
 
