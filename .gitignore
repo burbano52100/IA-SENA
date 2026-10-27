@@ -1,0 +1,6 @@
+# Llaves y configuracion local: nunca se suben
+.env
+
+# Archivos del sistema y del editor
+.DS_Store
+.history/
