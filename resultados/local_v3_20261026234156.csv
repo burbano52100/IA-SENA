@@ -1,0 +1,7 @@
+﻿id;esperado;obtenido;jsonValido;okIntencion;okUrgente;ms;tokensEntrada;tokensSalida;costo;atendio;respaldo;error
+1;precio/false;precio/false;true;true;true;1470;838;12;0;local;false;
+2;reclamo/true;reclamo/true;true;true;true;1769;845;14;0;local;false;
+3;pedido/false;pedido/false;true;true;true;1414;838;12;0;local;false;
+4;reclamo/true;reclamo/true;true;true;true;1736;838;14;0;local;false;
+5;precio/false;precio/false;true;true;true;1488;838;12;0;local;false;
+6;reclamo/false;reclamo/false;true;true;true;1748;843;14;0;local;false;

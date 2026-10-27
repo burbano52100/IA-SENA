@@ -1,4 +1,0 @@
-﻿id;esperado;obtenido;jsonValido;okIntencion;okUrgente;ms;tokensEntrada;tokensSalida;costo;atendio;respaldo;error
-8;pedido/false;pedido/false;true;true;true;13339;934;12;0;local;false;
-9;pedido/false;pedido/true;true;true;false;2964;941;12;0;local;false;
-21;otro/false;otro/false;true;true;true;5042;942;13;0;local;false;
